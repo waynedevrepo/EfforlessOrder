@@ -1,3 +1,6 @@
-# hello20240527
+# ##################################
+#
+# This is EfforlessOrder Sale Sites
+# `Node version : 18.19.0`
 
-This can be Python repo
+# ##################################
